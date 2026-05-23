@@ -51,13 +51,18 @@ unlock audio (required by browser autoplay policy).
 - **Tier buttons** — navigate between exploration modes
 
 ## Part of the Sandbox Series
-EMS Sandbox is part of a growing collection of interactive science visualizations
-designed to make complex systems feel real and explorable.
+EMS Sandbox is part of a growing series of interactive
+science visualizations designed to make complex systems
+feel real and explorable. Each sandbox builds on the last.
 
+- [Quantum Sandbox](https://silent-pfil.github.io/Quantum-Sandbox/) live
 - [DNA Sandbox](https://silent-pfil.github.io/DNA-Sandbox/) — live
-- EMS Sandbox — live
-- Cellular Sandbox — in development
+- [EMS Sandbox](https://silent-pfil.github.io/EMS-Sandbox/) — live
+- [Cellular Sandbox](https://silent-pfil.github.io/Cell-Sandbox/) — live
+- [Emergence Sandbox](https://silent-pfil.github.io/Emergence-Sandbox/) — live
 - Neural Transmission Sandbox — in development
+- Newtonian Sandbox — "Universe Sandbox"
+- Einsteinian Sandbox — in development
 
 ## License
 MIT — free to use, share, and build on.
