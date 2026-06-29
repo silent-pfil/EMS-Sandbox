@@ -65,4 +65,4 @@ feel real and explorable. Each sandbox builds on the last.
 - [Einsteinian Sandbox](https://silent-pfil.github.io/Einsteinian-Sandbox/) — live
 
 ## License
-MIT — free to use, share, and build on.
+No License — free to use, share with others, and think.
